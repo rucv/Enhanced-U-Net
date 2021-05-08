@@ -10,15 +10,14 @@
 * tqdm
 
 ### Data
-train 
-   - Images 
-   - Masks 
-test 
-   - Images 
-   -  Masks 
-Valid 
-   - Images 
-   - Masks 
+```
+$ tree data
+train
+├── bar.yaml
+├── foo.json
+└── nested
+    └── baz.md
+```
 
 ### 1. Training
 
