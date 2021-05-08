@@ -11,14 +11,14 @@
 
 ### Data
 train \
-   Images \
-   Masks \
+   - Images \
+   - Masks \
 test \
-  Images \
-  Masks \
+   - Images \
+   -  Masks \
 Valid \
-  Images \
-  Masks \
+   - Images \
+   - Masks 
 
 ### 1. Training
 
