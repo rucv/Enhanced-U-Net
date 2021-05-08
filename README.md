@@ -10,15 +10,15 @@
 * tqdm
 
 ### Data
-train
-  ** Images
-  ** Masks
-test
-  ** Images
-  ** Masks
-Valid
-  ** Images
-  ** Masks
+train \
+   Images \
+   Masks \
+test \
+  Images \
+  Masks \
+Valid \
+  Images \
+  Masks \
 
 ### 1. Training
 
