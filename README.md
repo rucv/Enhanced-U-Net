@@ -11,12 +11,16 @@
 
 ### Data
 ```
-$ tree data
+$ data
 train
-├── bar.yaml
-├── foo.json
-└── nested
-    └── baz.md
+├── Images
+├── Masks
+valid
+├── Images
+├── Masks
+test
+├── Images
+├── Masks
 ```
 
 ### 1. Training
