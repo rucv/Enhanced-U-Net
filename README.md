@@ -10,10 +10,15 @@
 * tqdm
 
 ### Data
-
-
-
-
+train
+  ** Images
+  ** Masks
+test
+  ** Images
+  ** Masks
+Valid
+  ** Images
+  ** Masks
 
 ### 1. Training
 
@@ -25,4 +30,4 @@ python train.py  --mode train  --train_data_dir /path-to-train_data  --valid_dat
 
 ```bash
 python test.py  --mode test  --load_ckpt checkpoint --test_data_dir  /path-to-test_data```
-```
+
